@@ -1,0 +1,9 @@
+name = "weight-loss-fitness-os-app"
+compatibility_date = "2026-06-19"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "fitness_os_db"
+database_id = "replace-with-cloudflare-d1-database-id"
+preview_database_id = "fitness_os_db_preview"
