@@ -5,5 +5,5 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "fitness_os_db"
-database_id = "replace-with-cloudflare-d1-database-id"
+database_id = "89909110-519b-416f-8792-b3587f361cb3"
 preview_database_id = "fitness_os_db_preview"
